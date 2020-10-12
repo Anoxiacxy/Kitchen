@@ -1,0 +1,2 @@
+FOOD_ID,COUNT
+1,200
